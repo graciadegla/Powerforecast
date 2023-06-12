@@ -48,7 +48,6 @@ def afficher_accueil():
 
         **Informations importantes :**
         - Données utilisées : Base de données de consommation d'electricité de la ville de Tétouan au Maroc.
-        - Algorithme de prédiction : [Algorithme utilisé]
         - Auteurs : [Nos noms]
         - Date : 10 au 14 juin 2023
 
