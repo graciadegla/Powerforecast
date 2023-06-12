@@ -1,0 +1,5 @@
+[theme]
+base="light"
+primaryColor="#e3a72f"
+secondaryBackgroundColor="linear-gradient(90deg, #5675a3, rgba(161,195,221,1))"
+font="monospace"
