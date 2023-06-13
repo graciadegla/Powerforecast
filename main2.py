@@ -34,7 +34,7 @@ def main():
 def afficher_accueil():
 
     # Titre de la page d'accueil
-    st.markdown("<h1 style='text-align: center;'>Powerforecast - Prédiction de la consommation d'énergie</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>Powerforecast - Prédiction de la consommation d'electricité</h1>", unsafe_allow_html=True)
 
     # Chargement et affichage de l'image
     image = 'assets/powerforecast.png'
@@ -43,7 +43,7 @@ def afficher_accueil():
     # Description du projet
     st.write("""
         Bienvenue sur Powerforecast, un projet de prédiction de la consommation d'énergie.
-        Ce projet vise à prédire la demande d'énergie en utilisant des modèles de machine learning avancés.
+        Ce projet vise à prédire la consommation et la demande d'énergie en utilisant des modèles de machine learning avancés.
         Explorez les fonctionnalités et les prédictions de Powerforecast pour mieux comprendre et anticiper la consommation d'énergie.
 
         **Informations importantes :**
