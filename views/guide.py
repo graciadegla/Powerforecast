@@ -46,5 +46,5 @@ def guide():
         Cet algorithme est entraîné sur des données historiques pour estimer la demande énergétique future en fonction de différents paramètres.
 
         ## Contact
-        Pour toute question ou suggestion, veuillez contacter [nos adresses e-mails].
+        Pour toute question ou suggestion, veuillez nous contacter [nos adresses e-mails].
         """)
